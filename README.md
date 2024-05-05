@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatTrof
-- 👀 I’m interested in python and lua programming
+- 👀 I’m interested in python programming
 - 🌱 I’m currently learning python sucks😭😭😭😭😭😭
 - 💞️ I’m looking to collaborate on no one lol
 - 📫 Discord: mangotangle
