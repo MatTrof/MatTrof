@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MatTrof
-- 👀 I’m interested in C# and C++ programming
-- 🌱 I’m currently learning C++😭😭😭😭😭😭
+- 👀 I’m interested in Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot and Godot programming
+- 🌱 I’m currently learning godot 3d
 - 💞️ I’m looking to collaborate on no one lol
 - 📫 Discord: mangotangle
-- 😄 Pronouns: he/him (stop yapping about this)
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: i ate the fun fact
 - 🧨 tnt
 - 🤫🧏‍♂️ what would happen if I put .gitignore in .gitignore
